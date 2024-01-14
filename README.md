@@ -110,9 +110,13 @@ key patterns and trends, enhancing the interpretability of the dataset and
 contributing to the overall efficacy of the project.
 ### Software Requirement:
 ❖ Anaconda environment
+
 ❖ Jupyter Notebook
+
 Language Used:
+
 ❖ Python
+
 Dataset Used:
 https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalorerestaurants
 ### RESULT ANALYSIS
