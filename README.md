@@ -1,7 +1,7 @@
 # Yelp-Review-Analysis
 ## Overview:
 
-Welcome to the Restaurant Review Analysis project! This project aims to assist aspiring restaurant owners and investors in making informed decisions about where to open a new restaurant. By leveraging data analysis techniques, we dive into restaurant reviews, perform thorough cleaning and processing, apply machine learning, and visualize key insights.
+Welcome to the Yelp Review Analysis project! This project aims to assist aspiring restaurant owners and investors in making informed decisions about where to open a new restaurant. By leveraging data analysis techniques, we dive into restaurant reviews, perform thorough cleaning and processing, apply machine learning, and visualize key insights.
 
 ## Tools and Technologies Used:
 
@@ -33,6 +33,6 @@ Welcome to the Restaurant Review Analysis project! This project aims to assist a
 
 ## Acknowledgments:
 
-This project was developed under the guidance of Dr. Neeraj Jain, exploring the intersection of data analytics and the culinary industry.
+This project was developed exploring the intersection of data analytics and the culinary industry.
 
 Happy analyzing! 🍽️📊
